@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @IDontKnowAli
+- 👀 I’m interested in learning a variety of code
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Python or C++ projects
+- 📫 How to reach me aliahmad6941@yahoo.com
